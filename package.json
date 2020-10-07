@@ -1,7 +1,7 @@
 {
-  "name": "kaplanco-page-template",
+  "name": "webstarter-basic",
   "version": "1.0.0",
-  "description": "Starter project for Kaplan landing page development",
+  "description": "Starter project Bootstrap web development",
   "devDependencies": {
     "autoprefixer": "^9.8.0",
     "csslint": "^1.0.5",
